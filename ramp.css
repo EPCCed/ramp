@@ -2,8 +2,16 @@ html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
+html {
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+}
+
+html {
+  font-family:  'Source Serif Pro', serif, "PT Serif", Georgia, "Times New Roman", serif;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Serif", Serif, "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -11,6 +19,14 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   color: #cc0000;	
+  font-size: xx-large;
+}
+
+h2 {
+  color: navy;
+  fornt-weight: 500;
+  font-size: x-large;
+  
 }
 
 .intro  {
@@ -18,4 +34,5 @@ h1 {
   margin: 50px 200px 50px 100px;
   width: 70%;
   line-height: 1.5;
+  font-size: large;
 }
