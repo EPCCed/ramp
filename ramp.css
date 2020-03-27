@@ -14,5 +14,8 @@ h1 {
 }
 
 .intro  {
-  padding: 30px
+  padding: 30px;
+  margin: 50px 200px 50px 100px;
+  width: 70%;
+  line-height: 1.5;
 }
